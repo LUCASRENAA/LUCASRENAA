@@ -20,10 +20,14 @@ Amo programação, sem afinidades por linguagens, construo sites/sistemas web e 
 
 # Naner site
 Simulação de um site que faz sistemas web :D 
+  <a href="https://lucasrenaa.github.io/naner_site/">https://lucasrenaa.github.io/naner_site/</a>
+
 ![gif](https://github.com/LUCASRENAA/naner_site/blob/gh-pages/img/naner_site.gif)
 
 # Naner Elbixu
 Simulação de um jogo de azar, onde foi criado com um objetivo de aprender a trabalhar com entrada e saída de dados feito em Django + Bootstrap :D
+  <a href="https://naner.herokuapp.com/inicio/">https://naner.herokuapp.com/inicio/</a>
+
 
 # NanerMobile 
 A mesma coisa do anterior, a diferença é que foi feito para a plataforma mobile e as API feita em flask
@@ -33,6 +37,17 @@ Um controle de estoque com o objetivo de controlar o estoque e o controle da ent
 
 # Naner Controle de combustivel
 Simulação de um tonel e de uso de automoveis com gasolina, média de gastos e etc. Com o objetivo de melhorar a trabalhar com datas e fazer relatorios por mes,semanal e etc(Ainda em fase de testes)
+
+
+# Portfolio
+ <a href="https://lucasrenan.netlify.app/">![alt text](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)  </a>
+ 
+ # Contato
+  <a href="https://www.linkedin.com/in/lucas-renan-67a9871a2/">![alt text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)  </a>
+ <a href="https://api.whatsapp.com/send?phone=5581989504384&text=Ol%C3%A1%20LUCASRENAA">Manda um alô no Whatsapp</a>
+
+
+
 
 
 
