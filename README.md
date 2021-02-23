@@ -11,18 +11,17 @@ Amo programação, sem afinidades por linguagens, construo sites/sistemas web e 
 - [x] ![alt text](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 
 # Pretendo aprender
-- [] ![alt text](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-- [] ![alt text](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-- [] ![alt text](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- [ ] ![alt text](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+- [ ] ![alt text](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+- [ ] ![alt text](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
 # Alguns dos meus projetos
 
 # Naner site
 Simulação de um site que faz sistemas web :D 
-  <a href="https://lucasrenaa.github.io/naner_site/">https://lucasrenaa.github.io/naner_site/</a>
+  <a href="https://github.com/LUCASRENAA/naner_site">https://github.com/LUCASRENAA/naner_site</a>
 
-![gif](https://github.com/LUCASRENAA/naner_site/blob/gh-pages/img/naner_site.gif)
 
 # Naner Elbixu
 Simulação de um jogo de azar, onde foi criado com um objetivo de aprender a trabalhar com entrada e saída de dados feito em Django + Bootstrap :D
