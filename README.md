@@ -9,6 +9,8 @@ Amo programação, sem afinidades por linguagens, construo sites/sistemas web e 
 - [x] ![alt text](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
 - [x] ![alt text](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)  
 - [x] ![alt text](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+- [x] Java(com o Android Studio, consigo fazer web crawler, POST, GET e etc) 
+- [x] VBA (automatizo processos, mexo com userforms e etc)  
 
 # Pretendo aprender
 - [ ] ![alt text](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
