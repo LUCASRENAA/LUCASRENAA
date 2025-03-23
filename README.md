@@ -5,6 +5,8 @@ My expertise lies in application security, particularly with a focus on Python p
 
 ### 📫 Contact
 - LinkedIn: [lucasrenaa](https://www.linkedin.com/in/lucasrenaa/)
+- Portfolio: [lucasrenaa](https://lucasmeira.netlify.app/)
+
 
 ## 🎓 Education
 - Analysis and Systems Development - IFPE, Recife (2021-2024)
