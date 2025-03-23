@@ -39,3 +39,7 @@ Repository containing step-by-step solutions for various Capture The Flag challe
 ### CVE-2018-25031 Automation
 Python script for automating the identification of CVE-2018-25031.
 [View Project](https://github.com/LUCASRENAA/CVE-2018-25031)
+
+### Vulncheck SCA in Workflow
+A workflow for integrating Software Composition Analysis (SCA) into projects, automating the scanning of dependencies for security vulnerabilities.
+[View Project](https://github.com/LUCASRENAA/vulncheck-sca-workflow)
